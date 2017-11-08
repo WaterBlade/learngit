@@ -6,3 +6,4 @@ Creating a new branch is quick.
 A new branch.
 I'm in the dev branch.
 Now I have finished.
+I have tried to modify the file in another place.
