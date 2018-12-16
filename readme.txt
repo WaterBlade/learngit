@@ -6,3 +6,5 @@ Creating a new branch is quick.
 A new branch.
 I'm in the dev branch.
 But I haven't finished yet ...
+
+What is the workflow of git?
